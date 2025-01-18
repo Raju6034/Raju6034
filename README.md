@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+currently Pursuing B Tech third year
 <!DOCTYPE html>
 <html lang="en">
 <head>
